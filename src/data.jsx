@@ -11,6 +11,11 @@ import SkillImg6 from "./assets/img/skills/react.png";
 
 // project images 
 import ProjImg1 from "./assets/img/screens/WorkerCPF.png"
+import ProjImg2 from "./assets/img/screens/Cave.png"
+import ProjImg3 from "./assets/img/screens/Blog_Cafe.png"
+import ProjImg4 from "./assets/img/screens/FE_Store.png"
+import ProjImg5 from "./assets/img/screens/Template_BF1.png"
+import ProjImg6 from "./assets/img/screens/Template_BF2.png"
 
 
 // navigation
@@ -108,26 +113,26 @@ export const projectsData = [
   {
     title: "test2",
     link: "link2",
-    imgUrl: "./assets/img/screens/Cave.jpg",
+    imgUrl: ProjImg2,
   },
   {
     title: "test3",
     link: "link3",
-    imgUrl: "./src/assets/img/screens/Blog_Cafe.png",
+    imgUrl: ProjImg3,
   },
   {
     title: "test4",
     link: "link4",
-    imgUrl: "./src/assets/img/screens/FE_Store.png",
+    imgUrl: ProjImg4,
   },
   {
     title: "test5",
     link: "link5",
-    imgUrl: "./src/assets/img/screens/Template_BF1.png",
+    imgUrl: ProjImg5,
   },
   {
     title: "test6",
     link: "link6",
-    imgUrl: "./src/assets/img/screens/Template_BF2.png",
+    imgUrl: ProjImg6,
   },
 ];
