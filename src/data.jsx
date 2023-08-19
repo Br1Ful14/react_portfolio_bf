@@ -9,6 +9,9 @@ import SkillImg4 from "./assets/img/skills/laravel.png";
 import SkillImg5 from "./assets/img/skills/sql.png";
 import SkillImg6 from "./assets/img/skills/react.png";
 
+// project images 
+import ProjImg1 from "./assets/img/screens/WorkerCPF.png"
+
 
 // navigation
 export const navigation = [
@@ -100,7 +103,7 @@ export const projectsData = [
   {
     title: "test1",
     link: "link1",
-    imgUrl: "./src/assets/img/screens/WorkerCPF.png",
+    imgUrl: ProjImg1,
   },
   {
     title: "test2",
