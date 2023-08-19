@@ -11,7 +11,7 @@ import SkillImg6 from "./assets/img/skills/react.png";
 
 // project images 
 import ProjImg1 from "./assets/img/screens/WorkerCPF.png"
-import ProjImg2 from "./assets/img/screens/Cave.png"
+import ProjImg2 from "./assets/img/screens/Cave.jpg"
 import ProjImg3 from "./assets/img/screens/Blog_Cafe.png"
 import ProjImg4 from "./assets/img/screens/FE_Store.png"
 import ProjImg5 from "./assets/img/screens/Template_BF1.png"
