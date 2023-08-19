@@ -100,31 +100,31 @@ export const projectsData = [
   {
     title: "test1",
     link: "link1",
-    imgUrl: "/src/assets/img/screens/WorkerCPF.png",
+    imgUrl: "./src/assets/img/screens/WorkerCPF.png",
   },
   {
     title: "test2",
     link: "link2",
-    imgUrl: "/src/assets/img/screens/Cave.jpg",
+    imgUrl: "./src/assets/img/screens/Cave.jpg",
   },
   {
     title: "test3",
     link: "link3",
-    imgUrl: "/src/assets/img/screens/Blog_Cafe.png",
+    imgUrl: "./src/assets/img/screens/Blog_Cafe.png",
   },
   {
     title: "test4",
     link: "link4",
-    imgUrl: "/src/assets/img/screens/FE_Store.png",
+    imgUrl: "./src/assets/img/screens/FE_Store.png",
   },
   {
     title: "test5",
     link: "link5",
-    imgUrl: "/src/assets/img/screens/Template_BF1.png",
+    imgUrl: "./src/assets/img/screens/Template_BF1.png",
   },
   {
     title: "test6",
     link: "link6",
-    imgUrl: "/src/assets/img/screens/Template_BF2.png",
+    imgUrl: "./src/assets/img/screens/Template_BF2.png",
   },
 ];
