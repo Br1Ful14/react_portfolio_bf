@@ -22,7 +22,7 @@ export const Portfolio = () => {
             <p className="subtitle">
               Vous trouverez ici les projets que j'ai réalisés dernièrement
             </p>
-
+            <Projects />
             <h2 className="section-title" id="resume">RESUME</h2>
             <p className="subtitle">
               Vous trouverez ici une brève description de mon expérience
