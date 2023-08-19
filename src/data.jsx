@@ -108,7 +108,7 @@ export const projectsData = [
   {
     title: "test2",
     link: "link2",
-    imgUrl: "./src/assets/img/screens/Cave.jpg",
+    imgUrl: "./assets/img/screens/Cave.jpg",
   },
   {
     title: "test3",
