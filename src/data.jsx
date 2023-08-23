@@ -122,7 +122,7 @@ export const projectsData = [
   },
   {
     title: "Online Store",
-    link: "lhttps://front-end-store-bf.netlify.app/",
+    link: "https://front-end-store-bf.netlify.app/",
     imgUrl: ProjImg4,
   },
   {
