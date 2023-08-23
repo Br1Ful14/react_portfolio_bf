@@ -52,7 +52,7 @@ export const social = [
   },
   {
     icon: <FiGithub />,
-    href: "https://github.com/Br1Ful14",
+    href: "https://github.com/brunofulia",
     color: "text-white",
     colorHover: "hover:text-gray-500",
   },
@@ -106,33 +106,33 @@ export const sections = [
 
 export const projectsData = [
   {
-    title: "test1",
-    link: "link1",
+    title: "Laravel",
+    link: "https://github.com/brunofulia",
     imgUrl: ProjImg1,
   },
   {
-    title: "test2",
-    link: "link2",
+    title: "HTML",
+    link: "https://github.com/brunofulia/Gestion_Cave",
     imgUrl: ProjImg2,
   },
   {
-    title: "test3",
-    link: "link3",
+    title: "Blog",
+    link: "https://blogdecafebr1.netlify.app/",
     imgUrl: ProjImg3,
   },
   {
-    title: "test4",
-    link: "link4",
+    title: "Online Store",
+    link: "lhttps://front-end-store-bf.netlify.app/",
     imgUrl: ProjImg4,
   },
   {
-    title: "test5",
-    link: "link5",
+    title: "Template",
+    link: "https://boots-template-1.netlify.app/",
     imgUrl: ProjImg5,
   },
   {
-    title: "test6",
-    link: "link6",
+    title: "Template",
+    link: "https://boots-template-2.netlify.app/",
     imgUrl: ProjImg6,
   },
 ];
