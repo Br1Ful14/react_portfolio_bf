@@ -106,8 +106,8 @@ export const sections = [
 
 export const projectsData = [
   {
-    title: "Laravel",
-    link: "https://github.com/brunofulia",
+    title: "Laravel ERP",
+    link: "https://github.com/brunofulia/laravel_erp/tree/main#readme",
     imgUrl: ProjImg1,
   },
   {
